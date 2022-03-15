@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imageediting/static/css/main.be27e3c9.css",
+    "main.js": "/imageediting/static/js/main.bd1cd9c2.js",
+    "static/js/27.dfc8509c.chunk.js": "/imageediting/static/js/27.dfc8509c.chunk.js",
+    "static/media/keith-misner-h0Vxgz5tyXA-unsplash.jpg": "/imageediting/static/media/keith-misner-h0Vxgz5tyXA-unsplash.b6da4249e919bbc95cc9.jpg",
+    "static/media/dog.jpg": "/imageediting/static/media/dog.a388a06337ac4fabd4a0.jpg",
+    "static/media/yura-ryzhov-F1srsDTSG-Q-unsplash.jpg": "/imageediting/static/media/yura-ryzhov-F1srsDTSG-Q-unsplash.a388a06337ac4fabd4a0.jpg",
+    "static/media/sharon-mccutcheon-62vi3TG5EDg-unsplash.jpg": "/imageediting/static/media/sharon-mccutcheon-62vi3TG5EDg-unsplash.e327043d6a1d76e078c0.jpg",
+    "index.html": "/imageediting/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.be27e3c9.css",
+    "static/js/main.bd1cd9c2.js"
+  ]
+}
